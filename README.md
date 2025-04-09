@@ -6,7 +6,6 @@
 <br>
 <p align="center">
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
 </p>
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 <p>🎓 &nbsp;Computer Science student at Universidad de la Sierra Sur de Oaxaca.<br>
