@@ -22,16 +22,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DannG04&theme=algolia&show_icons=true&hide_border=true&count_private=true"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannG04&theme=algolia&show_icons=true&hide_border=true&layout=compact"/>
+
 <h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gonzalez-ruiz-18b454196)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danny_gz4/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalezruizdaniel183@gmail.com)
+
+</div>
 <div align="center">
 
 | Snake Eating by DannG04 |
 | ------------------------------------------|
 | ![Snake game DannG04](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gonzalez-ruiz-18b454196)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danny_gz4/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalezruizdaniel183@gmail.com)
-  
 </div>
 
