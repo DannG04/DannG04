@@ -27,7 +27,7 @@
 
 | Snake Eating by DannG04 |
 | ------------------------------------------|
-| (https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
+| ![Snake game DannG04](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gonzalez-ruiz-18b454196)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danny_gz4/)
