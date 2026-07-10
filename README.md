@@ -21,6 +21,12 @@
   <img src="https://img.shields.io/badge/Oaxaca,%20M%C3%A9xico-6DB33F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DannG04&label=Profile%20Views&color=3382F7&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/DannG04?label=Followers&style=for-the-badge&logo=github&color=3382F7&labelColor=1a1b27" alt="followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-6DB33F?style=for-the-badge" alt="open to collaborate" />
+</div>
+
 <br>
 
 <h2 align="center">About Me</h2>
@@ -116,21 +122,11 @@ Off the keyboard       -> Fedora KDE daily driver, hi-fi audio, and electronics 
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DannG04&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
-</div>
-
-<div align="center">
   <img width="95%" src="https://github-profile-trophy.vercel.app/?username=DannG04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
 </div>
 
-<h2 align="center">Contribution Snake</h2>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DannG04/DannG04/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DannG04/DannG04/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/DannG04/DannG04/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DannG04&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
 </div>
 
 <div align="center">
