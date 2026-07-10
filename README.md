@@ -9,6 +9,9 @@
 </div>
 
 <div align="center">
+  <a href="https://portfolio-gamma-wine-59.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/daniel-gonzalez-ruiz-18b454196" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -18,13 +21,12 @@
   <a href="https://www.instagram.com/danny_gz4/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <img src="https://img.shields.io/badge/Oaxaca,%20M%C3%A9xico-6DB33F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DannG04&label=Profile%20Views&color=3382F7&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/DannG04?label=Followers&style=for-the-badge&logo=github&color=3382F7&labelColor=1a1b27" alt="followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-6DB33F?style=for-the-badge" alt="open to collaborate" />
+  <img src="https://img.shields.io/badge/Oaxaca,%20M%C3%A9xico-6DB33F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
 </div>
 
 <br>
@@ -34,11 +36,11 @@
 I am an Informatics student (8th semester) at the **Universidad de la Sierra Sur (UNSIS)** in Oaxaca, Mexico. I build full-stack institutional software and run a small residential ISP on the side, so my day-to-day swings between backend architecture, user-centered design, and hands-on networking and hardware.
 
 ```text
-Currently building     -> clinical record systems (UnsiSmile) and civic apps (MiahuaFix)
-Currently exploring    -> Rust desktop apps (Tauri), Docker/Kubernetes, WebSocket agents
-Thesis in progress     -> hardened lab-monitoring agent for UNSIS Linux labs (Rust/C + React)
-Next up                -> Professional internship @ UAEH, Pachuca (electronics repair lab)
-Off the keyboard       -> Fedora KDE daily driver, hi-fi audio, and electronics tinkering
+Currently building   -> full-stack platforms for UNSIS and local organizations
+Currently exploring  -> Rust + Tauri desktop apps, Docker, real-time WebSocket systems
+Also running         -> a small residential + Starlink ISP (with MikroTik automation)
+Next up              -> Professional internship @ UAEH, Pachuca (electronics repair lab)
+Off the keyboard     -> Fedora KDE daily driver, hi-fi audio, and electronics tinkering
 ```
 
 <h2 align="center">Tech Stack</h2>
@@ -47,19 +49,19 @@ Off the keyboard       -> Fedora KDE daily driver, hi-fi audio, and electronics 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,rust,js,kotlin,c&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=java,python,rust,kotlin,js,c&theme=dark" alt="languages" />
 
 **Backend &amp; Databases**
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,mysql,supabase&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,sqlite,supabase&theme=dark" alt="backend" />
 
 **Frontend, UX &amp; Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,vue,figma,androidstudio,tauri&theme=dark" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=vue,angular,react,tailwind,figma,androidstudio&theme=dark" alt="frontend" />
 
 **DevOps, OS &amp; Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,vscode&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=docker,tauri,linux,git,github,vscode&theme=dark" alt="tools" />
 
 </div>
 
@@ -67,44 +69,52 @@ Off the keyboard       -> Fedora KDE daily driver, hi-fi audio, and electronics 
 
 <div align="center">
 
-<!-- Replace the "#" links with your real repo URLs. Remove any row whose repo is private. -->
+<!-- Titles link to the portfolio. Swap "#portfolio" for a specific repo URL when a project has one. -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="#">UnsiSmile</a></h3>
-      <p>Dental clinic records system for managing patient histories and appointments, evolved from an earlier desktop tool into a full web platform.</p>
-      <p><code>Spring Boot</code> <code>React</code> <code>PostgreSQL</code></p>
+      <h3><a href="https://portfolio-gamma-wine-59.vercel.app">DATA-UNSIS</a></h3>
+      <p>Student data visualization and analysis system for UNSIS: interactive dashboards, sociodemographic charts, and a georeferenced heat map of the student population, backed by a JWT-secured REST API.</p>
+      <p><code>Vue.js</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>PostGIS</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="#">MiahuaFix</a></h3>
-      <p>Citizen incident-reporting app for the municipality, refined through a two-iteration usability study (SUS methodology).</p>
-      <p><code>Mobile</code> <code>UX Research</code> <code>Usability Testing</code></p>
+      <h3><a href="https://portfolio-gamma-wine-59.vercel.app">UNSIS Smile</a></h3>
+      <p>Web system for dental clinical records at UNSIS. Led maintenance and operations: fixed CORS and data-sanitization issues, stabilized real-time WebSockets, and handled the full Ubuntu deployment.</p>
+      <p><code>Spring Boot</code> <code>Angular</code> <code>PostgreSQL</code> <code>WebSockets</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="#">ISP Management Platform</a></h3>
-      <p>Operations tooling for a residential + Starlink ISP: client and billing management with a MikroTik automation agent.</p>
+      <h3><a href="https://portfolio-gamma-wine-59.vercel.app">CAABMO</a></h3>
+      <p>Full-stack platform for the Miahuatlan basketball referees association: weekly match administration, role-based users (admins, referees, scorekeepers), and a public site with calendar and announcements.</p>
+      <p><code>Vue 3</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://portfolio-gamma-wine-59.vercel.app">ISP Management Platform</a></h3>
+      <p>Operations tooling for my residential + Starlink ISP: client and billing management with a local Python agent that automates provisioning through the MikroTik API.</p>
       <p><code>React</code> <code>React Native</code> <code>Supabase</code> <code>Python</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3><a href="#">Lab Monitoring System <sub>(thesis)</sub></a></h3>
-      <p>Two-component system to deter cheating in UNSIS Linux labs: a hardened endpoint agent plus a live professor dashboard.</p>
-      <p><code>Rust</code> <code>C</code> <code>WebSockets</code> <code>React</code></p>
+      <h3><a href="https://portfolio-gamma-wine-59.vercel.app">TastyMood</a></h3>
+      <p>Android app that recommends recipes based on mood, diet type, and food preferences, with favorites, profile persistence, and a local recipe database.</p>
+      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Room</code> <code>DataStore</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://portfolio-gamma-wine-59.vercel.app">Loan Management</a></h3>
+      <p>Desktop app for loan and collections management with payment tracking, due-date alerts, a risk traffic-light indicator, and database backup/restore, running fully local.</p>
+      <p><code>Tauri</code> <code>Vue.js</code> <code>SQLite</code> <code>Rust</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="#">SIGE &amp; FichasIngreso</a></h3>
-      <p>Institutional academic-management and student-admissions portals for UNSIS, including schema design and audit logging.</p>
-      <p><code>Spring Boot</code> <code>React</code> <code>PostgreSQL</code></p>
+      <h3><a href="https://portfolio-gamma-wine-59.vercel.app">Point of Sale</a></h3>
+      <p>Desktop point-of-sale system with modular management of inventory, sales, customers, layaways, purchases, and employees, plus Excel report generation.</p>
+      <p><code>Java</code> <code>Swing</code> <code>PostgreSQL</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="#">Unsito</a></h3>
-      <p>Conversational assistant for UNSIS student services, hardened against prompt-injection during testing.</p>
-      <p><code>Botpress</code> <code>JavaScript</code></p>
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
